@@ -1,1 +1,2 @@
-# COMP-411
+# COMP 411: Computer Organization
+
